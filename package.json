@@ -1,0 +1,23 @@
+{
+  "name": "jest_testing_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradencodes/Jest-Testing-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradencodes/Jest-Testing-Basics/issues"
+  },
+  "homepage": "https://github.com/bradencodes/Jest-Testing-Basics#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
